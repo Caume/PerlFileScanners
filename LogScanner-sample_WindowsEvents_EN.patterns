@@ -1,0 +1,3 @@
+"Key","Name","Description","Author","Print Code","RegEx"
+1,"Event 540","local logon","OAHR","print ""$1\n"";","(E.v.e.n.t.I.D)"
+2,"HTML input form","Form with input tag inside - HTML","OAHR","print ""$2\n$3\n$4\n***\n.$1"" ","(/./.s.c.h.e.m.a.s)"

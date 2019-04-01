@@ -1,0 +1,3 @@
+"AbsFName","SHA1HASH","CmdIfOK","CMDIfBad"
+"/home/oherrera/test1.txt","afa6c8b3a2fae95785dc7d9685a57835d703ac88","echo -e ""File is OK\n"">> /home/oherrera/OK.txt","echo ""File is BAD\n"" >> /home/oherrera/BAD.txt"
+"/home/oherrera/test2.dll","c099b7f7ee695a84afa4320818c9be3c7d266463","date -u","date"
